@@ -1,4 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A very simple web application to generate the mark sheet. Automatically calculates the marks as well as the percentage from the marks provided by the user and generates and converts it into simple Pdf version.
+
+### Screenshots
+Generate       | Generated
+--------------:|:--------------:
+![generate](https://user-images.githubusercontent.com/37651620/89366386-87640780-d6f6-11ea-8cca-0fb0af8bbeac.png) | ![generated](https://user-images.githubusercontent.com/37651620/89366393-88953480-d6f6-11ea-9b69-816d1c542857.png)
+
+---
+## If you want to Install Locally
+- First step is to download this repo 
+- place it inside a project directory 
+- Then open client folder Configure and enter your own the field name (whatever you want) .
+-  Then open server and add your field name
+
+### Setup process
+- open client directory (cd client) type `npm install` to install all the dependencies.
+- after that type `npm start` to run your project.
+- Also open other terminal Simultaneouly and change directory to server ```cd server``` and start nodemon by typing ```nodemon index.js```.
+- configure your own port number.
+
+
+# Boom Shakalaka !
+#### open your browser and type the address 
+#### It looks something like this :::
+~~~bash
+http://localhost:3000/
+~~~
+### Enjoy!
 
 ## Available Scripts
 
