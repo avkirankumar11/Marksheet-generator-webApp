@@ -2,15 +2,15 @@ A very simple web application to generate the mark sheet. Automatically calculat
 
 ### Screenshots
 Generate       | Generated
---------------:|:--------------:
+:--------------:|:--------------:
 ![generate](https://user-images.githubusercontent.com/37651620/89366386-87640780-d6f6-11ea-8cca-0fb0af8bbeac.png) | ![generated](https://user-images.githubusercontent.com/37651620/89366393-88953480-d6f6-11ea-9b69-816d1c542857.png)
 
 ---
 ## If you want to Install Locally
 - First step is to download this repo 
 - place it inside a project directory 
-- Then open client folder Configure and enter your own the field name (whatever you want) .
--  Then open server and add your field name
+- Then open client folder Configure and enter your own required field name inside ```App.js``` (whatever you want) .
+-  Then open server folder & head over to document directory open index.js edit your own style of certificate.
 
 ### Setup process
 - open client directory (cd client) type `npm install` to install all the dependencies.
